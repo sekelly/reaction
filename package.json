@@ -2,7 +2,7 @@
   "name": "websdk-cdn",
   "version": "4.0.7",
   "description": "Zoom sample app for MeetingSDK-Web client view",
-  "homepage": "https://sekelly.github.io/websdk",
+  "homepage": "https://sekelly.github.io/reaction",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
